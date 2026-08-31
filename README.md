@@ -6,7 +6,7 @@ Smart User Explorer fetches user data from a public mock API and provides a clea
 
  ## 🚀 Live Demo
 
-[View Live Demo](YOUR_VERCEL_URL)
+[View Live Demo](https://smart-user-explorer.vercel.app/)
 
  ## 📌 Challenge
 
